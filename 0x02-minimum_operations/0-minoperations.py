@@ -1,8 +1,6 @@
 #!/usr/bin/python3
 """ Minimum Operations
     """
-
-
 def minOperations(n: int) -> int:
     """ Minimum Operations needed to get n H characters """
     next = 'H'
